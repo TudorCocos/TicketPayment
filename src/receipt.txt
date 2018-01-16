@@ -1,0 +1,14 @@
+TicketPayment Receipt
+---------------------
+
+Class III Tickets:
+D8 D9 D10 	3x270=810 RON
+
+Class IV Tickets:
+E12 E11 	2x150=300 RON
+
+Class V Tickets:
+F11 F12 	2x100=200 RON
+
+---------------------
+Total cost: 1310 RON
